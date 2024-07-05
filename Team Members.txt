@@ -1,4 +1,0 @@
-  ID		Sec		BN		Name
-9211000		 2		09		Mohamed Taher
-9210894		 2		04		Malek Hossam
-9210097		 1		10		Ahmed Abdelatty
